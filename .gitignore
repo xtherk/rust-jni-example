@@ -1,0 +1,11 @@
+!test.jar
+/target
+.vscode/
+.idea/
+*.dat
+*.jar
+*.dll
+*.a
+*.lib
+*.log
+Cargo.lock
