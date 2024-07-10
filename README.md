@@ -14,10 +14,10 @@ This project integrates JNI and JVMTI and can serve as a scaffold for a Rust-JNI
 
 It includes:
 
-Handling JVM Options and creating the JVM
-Handling Main Args and calling the Java main method
-Implementing JNI functions in Rust and registering them in the Java VM (using the register_native_methods function)
-An example of using JVMTI's class_event_hook to decrypt classes
+- Handling JVM Options and creating the JVM
+- Handling Main Args and calling the Java main method
+- Implementing JNI functions in Rust and registering them in the Java VM (using the register_native_methods function)
+- An example of using JVMTI's class_event_hook to decrypt classes
 
 ## 演示/Demo
 
